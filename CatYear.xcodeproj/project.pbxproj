@@ -12,6 +12,7 @@
 		3AC05DE11E4ADD38002CB7F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AC05DDF1E4ADD38002CB7F4 /* Main.storyboard */; };
 		3AC05DE31E4ADD38002CB7F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AC05DE21E4ADD38002CB7F4 /* Assets.xcassets */; };
 		3AC05DE61E4ADD38002CB7F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AC05DE41E4ADD38002CB7F4 /* LaunchScreen.storyboard */; };
+		3AC05DEE1E4ADDB3002CB7F4 /* imgres.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AC05DED1E4ADDB3002CB7F4 /* imgres.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3AC05DE21E4ADD38002CB7F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AC05DE51E4ADD38002CB7F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AC05DE71E4ADD38002CB7F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AC05DED1E4ADDB3002CB7F4 /* imgres.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = imgres.jpg; path = "../../Cat Year/Cat Year/imgres.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				3AC05DDD1E4ADD38002CB7F4 /* ViewController.swift */,
 				3AC05DDF1E4ADD38002CB7F4 /* Main.storyboard */,
 				3AC05DE21E4ADD38002CB7F4 /* Assets.xcassets */,
+				3AC05DED1E4ADDB3002CB7F4 /* imgres.jpg */,
 				3AC05DE41E4ADD38002CB7F4 /* LaunchScreen.storyboard */,
 				3AC05DE71E4ADD38002CB7F4 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AC05DEE1E4ADDB3002CB7F4 /* imgres.jpg in Resources */,
 				3AC05DE61E4ADD38002CB7F4 /* LaunchScreen.storyboard in Resources */,
 				3AC05DE31E4ADD38002CB7F4 /* Assets.xcassets in Resources */,
 				3AC05DE11E4ADD38002CB7F4 /* Main.storyboard in Resources */,
